@@ -1,7 +1,6 @@
 # Hyundai-i20-Dashboard-error
 
-![image](https://github.com/HackWithSumit/Hyundai-i20-Dashboard-error/assets/120317751/6027d781-5834-45d9-914f-92f1e56c2a46)
-
+![image-removebg-preview (1)](https://github.com/HackWithSumit/Hyundai-i20-Dashboard-error/assets/120317751/017a2702-f274-47a7-a04a-07dd3397f339)
 
 <h2>Hyundai i20 Dashboard Warning Lights</h2>
 
